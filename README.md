@@ -44,8 +44,13 @@
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
-<a href="https://github.com/MiraxxR/MiraxxR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraxxR&show_icons=true&line_height=27&count_private=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="MiraxxR's GitHub Stats" />
+<a href="https://github.com/MiraxxR1/MiraxxR1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraxxR1&show_icons=true&line_height=27&count_private=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="MiraxxR1's GitHub Stats" />
 </a>
 
+---
+
+<h3 align="center">This is my second account, I lost my other account...</h3>
 </details>
+
+
