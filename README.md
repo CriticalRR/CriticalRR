@@ -48,9 +48,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraxxR1&show_icons=true&line_height=27&count_private=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="MiraxxR1's GitHub Stats" />
 </a>
 
+</details>
+
 ---
 
 <h3 align="center">This is my second account, I lost my other account...</h3>
-</details>
-
-
