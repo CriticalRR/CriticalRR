@@ -16,6 +16,7 @@
 
 - 🔨 I'm currently working on a roleplay server which will be on FiveM.
 - 💻 I’m currently learning HTML / CSS / JS / LUA / REACT.
+- 🔊 My discord : https://discord.gg/tR4f4af4Mt
 
 ---
 
