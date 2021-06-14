@@ -9,7 +9,7 @@
  
 </p>
 
-<h3 align="center">A young student developer from france</h3>
+<h3 align="center">A student developer from france</h3>
 <br/>
 
 ---
