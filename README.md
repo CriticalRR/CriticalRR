@@ -53,4 +53,4 @@
 
 <h3 align="center">This is my second account, I lost my other account...</h3>
 
-[![Spotify](https://novatorem-coj8boshr-miraxxr1.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-miraxxr1.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
