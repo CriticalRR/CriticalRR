@@ -19,7 +19,6 @@
 
         
 <h3 align="center"> 🎧 Spotify Playing </h3>
-
         
 [<img src="https://novatorem-ashen-xi.vercel.app/api/spotify" alt="MiraxxR Spotify MusicPlaying" width="350" />]()
         
