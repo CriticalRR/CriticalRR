@@ -19,8 +19,10 @@
 
         
 <h3 align="center"> 🎧 Spotify Playing </h3>
-        
-<a href= https://open.spotify.com/user/w0uiymwyd8g17wy6iu3qp1xa7 target="blank"><img align="center" src=https://novatorem-ashen-xi.vercel.app/api/spotify alt="TMiraxxR Spotify MusicPlaying" height="20" width="20" /></a>
+  
+<p align="center">
+<a href= https://open.spotify.com/user/w0uiymwyd8g17wy6iu3qp1xa7 target="blank"><img align="center" src=https://novatorem-ashen-xi.vercel.app/api/spotify alt="TMiraxxR Spotify MusicPlaying" width="350" /></a>
+</p>
         
 ---
 <br/>
