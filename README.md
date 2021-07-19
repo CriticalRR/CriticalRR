@@ -57,4 +57,4 @@
         
 ### 🎧 Spotify Playing
 
-[<img src="https://novatorem-ashen-xi.vercel.app/api/spotify-playing" alt="MiraxxR Spotify NowPlaying" width="350" />](https://open.spotify.com/user/w0uiymwyd8g17wy6iu3qp1xa7)
+[<img src="https://novatorem-ashen-xi.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
