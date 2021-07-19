@@ -54,3 +54,7 @@
 <h3 align="center">This is my second account, I lost my other account...</h3>
 
 [![Spotify](https://novatorem-ashen-xi.vercel.app/api/spotify)](https://open.spotify.com/user/w0uiymwyd8g17wy6iu3qp1xa7)
+        
+        ### 🎧 Spotify Playing
+
+[<img src="https://novatorem-ashen-xi.vercel.app/api/spotify-playing" alt="MiraxxR Spotify NowPlaying" width="350" />](https://open.spotify.com/user/w0uiymwyd8g17wy6iu3qp1xa7))
