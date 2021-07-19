@@ -19,6 +19,12 @@
 
 ---
 
+### 🎧 Spotify Playing
+
+[<img src="https://novatorem-ashen-xi.vercel.app/api/spotify" alt="MiraxxR Spotify MusicPlaying" width="350" />]()
+        
+        ---
+        
 <br/>
 
 <h3 align="center"> Languages and Tools </h3>
@@ -52,9 +58,3 @@
 ---
 
 <h3 align="center">This is my second account, I lost my other account...</h3>
-
-[![Spotify](https://novatorem-ashen-xi.vercel.app/api/spotify)](https://open.spotify.com/user/w0uiymwyd8g17wy6iu3qp1xa7)
-        
-### 🎧 Spotify Playing
-
-[<img src="https://novatorem-ashen-xi.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />]()
