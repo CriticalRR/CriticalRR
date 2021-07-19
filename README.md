@@ -23,7 +23,6 @@
 
 [<img src="https://novatorem-ashen-xi.vercel.app/api/spotify" alt="MiraxxR Spotify MusicPlaying" width="350" />]()
         
----
         
 <br/>
 
