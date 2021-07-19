@@ -17,7 +17,7 @@
 - 💻 I’m currently learning REACT/VUE.js
 - 🔊 My discord : https://discord.gg/tR4f4af4Mt
 
-### 🎧 Spotify Playing
+<h3 align="center"> 🎧 Spotify Playing </h3>
 
 [<img src="https://novatorem-ashen-xi.vercel.app/api/spotify" alt="MiraxxR Spotify MusicPlaying" width="350" />]()
         
