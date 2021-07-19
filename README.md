@@ -17,13 +17,16 @@
 - 💻 I’m currently learning REACT/VUE.js
 - 🔊 My discord : https://discord.gg/tR4f4af4Mt
 
+        
 <h3 align="center"> 🎧 Spotify Playing </h3>
 
+        
 [<img src="https://novatorem-ashen-xi.vercel.app/api/spotify" alt="MiraxxR Spotify MusicPlaying" width="350" />]()
         
 ---
 <br/>
 
+        
 <h3 align="center"> Languages and Tools </h3>
 <p align="center">
     <a href=https://discord.gg/tR4f4af4Mt target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png alt="tools Visual Studio Code" width="26" /></a>
