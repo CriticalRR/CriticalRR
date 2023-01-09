@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on [a roleplay server which will be on FiveM.](https://discord.gg/jTwbHhM2Cn)
+- 🔭 I’m currently working on [a roleplay server which will be on FiveM.](https://discord.gg/2mntMRPZTM)
 
 - 🌱 I’m currently learning **React.js**
 
