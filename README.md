@@ -48,7 +48,3 @@
 </a>
 
 </details>
-
----
-
-<h3 align="center">This is my second account, I lost my other account...</h3>
