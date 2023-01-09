@@ -3,7 +3,6 @@
 </div>
 
 <h3 align="center">A student developer from france</h3>
-<br/>
 
 ---
 
