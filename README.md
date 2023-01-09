@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi mates, I'm MiraxxR 👋 </h1>
+    <h1>Hi mates, I'm MiraxxR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <p align="center">
     <a href=https://discord.gg/tR4f4af4Mt target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="Discord link to MiraxxR - Lounge" height="20" width="20" /></a>
