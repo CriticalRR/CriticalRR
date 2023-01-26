@@ -11,13 +11,13 @@
 
 ---
 
-- 🔭 I’m currently working on [a roleplay server which will be on FiveM.](https://discord.gg/2mntMRPZTM)
+- 🔭 I’m currently working on [a roleplay server which will be on FiveM.](https://discord.gg/wJmnKQHTWD)
 
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://miraxxr1.github.io/](https://miraxxr1.github.io/)
 
-- 📫 How to reach me **https://discord.gg/2mntMRPZTM**
+- 📫 How to reach me **https://discord.gg/wJmnKQHTWD**
 
 ---
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/miraxxr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miraxxr1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/miraxxr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miraxxr1" height="30" width="40" /></a>
-<a href="https://discord.gg/2mntMRPZTM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2mntMRPZTM" height="30" width="40" /></a>
+<a href="https://discord.gg/wJmnKQHTWD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2mntMRPZTM" height="30" width="40" /></a>
 </p>
 
 ---
