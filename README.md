@@ -11,8 +11,6 @@
 
 ---
 
-- 🔭 I’m currently working on [a roleplay server which will be on FiveM.](https://discord.gg/wJmnKQHTWD)
-
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://miraxxr1.github.io/](https://miraxxr1.github.io/)
