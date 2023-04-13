@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://criticalrr.github.io/](https://criticalrr.github.io/)
 
-- 📫 How to reach me **https://discord.gg/wJmnKQHTWD**
+- 📫 How to reach me **https://discord.gg/kcgKxtHgCf**
 
 ---
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/CriticalR_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CriticalRR" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CriticalR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CriticalRR" height="30" width="40" /></a>
-<a href="https://discord.gg/wJmnKQHTWD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2mntMRPZTM" height="30" width="40" /></a>
+<a href="https://discord.gg/kcgKxtHgCf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2mntMRPZTM" height="30" width="40" /></a>
 </p>
 
 ---
