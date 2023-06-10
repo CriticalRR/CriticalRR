@@ -5,15 +5,15 @@
 <br/>
 <h3 align="center">A student developer from france</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CriticalRR&label=Profile%20views&color=0e75b6&style=flat" alt="CriticalRR" /> </p>
-<p align="center"> <a href="https://twitter.com/CriticalR_" target="blank"><img src="https://img.shields.io/twitter/follow/CriticalR_?logo=twitter&style=for-the-badge" alt="CriticalR_" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MiraxxR1&label=Profile%20views&color=0e75b6&style=flat" alt="MiraxxR1" /> </p>
+<p align="center"> <a href="https://twitter.com/MiraxxR1" target="blank"><img src="https://img.shields.io/twitter/follow/MiraxxR1?logo=twitter&style=for-the-badge" alt="MiraxxR1" /></a> </p>
 <br/>
 
 ---
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://criticalrr.github.io/](https://criticalrr.github.io/)
+- 👨‍💻 All of my projects are available at [https://miraxxr1.github.io/](https://miraxxr1.github.io/)
 
 - 📫 How to reach me **https://discord.gg/kcgKxtHgCf**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/CriticalR_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CriticalRR" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@CriticalR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CriticalRR" height="30" width="40" /></a>
+<a href="https://twitter.com/MiraxxR1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MiraxxR1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MiraxxR1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MiraxxR1" height="30" width="40" /></a>
 <a href="https://discord.gg/kcgKxtHgCf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2mntMRPZTM" height="30" width="40" /></a>
 </p>
 
@@ -34,5 +34,5 @@
 ---
 
 <div align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CriticalRR&" alt="CriticalRR" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiraxxR1&" alt="MiraxxR1" /></p>
 </div>
