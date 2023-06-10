@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://miraxxr1.github.io/](https://miraxxr1.github.io/)
 
-- 📫 How to reach me **https://discord.gg/kcgKxtHgCf**
+- 📫 How to reach me **https://discord.gg/DMmB4BWa42**
 
 ---
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/MiraxxR1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MiraxxR1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@MiraxxR1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MiraxxR1" height="30" width="40" /></a>
-<a href="https://discord.gg/kcgKxtHgCf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2mntMRPZTM" height="30" width="40" /></a>
+<a href="https://discord.gg/DMmB4BWa42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DMmB4BWa42" height="30" width="40" /></a>
 </p>
 
 ---
