@@ -1,3 +1,5 @@
+[![miraxxr1](https://media.discordapp.net/attachments/1165851612728791111/1235314021809258577/wepik--202405011935399Kyv.png?ex=6633eb55&is=663299d5&hm=78a3b204738b518ae606abbbc55e74c47f0e4a30aac5b1786c0f9311f35ae325&=&format=webp&quality=lossless&width=1440&height=526)](https://github.com/MiraxxR1) 
+
 <h1 align="center">Hi 👋, I'm MiraxxR</h1>
 
 <h3 align="center">A passionate frontend developer from France</h3>
