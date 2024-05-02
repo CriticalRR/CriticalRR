@@ -21,9 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MiraxxR1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MiraxxR1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@MiraxxR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@MiraxxR" height="30" width="40" /></a>
-<a href="https://discord.gg/DMmB4BWa42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DMmB4BWa42" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/MiraxxR1" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1165851612728791111/1235595655372865587/twitter.png?ex=6634f1a0&is=6633a020&hm=c4f841ca41e28847aee3b4ce37efd0b6dfcac0147925878868ce5fde58a46814&=&format=webp&quality=lossless" alt="MiraxxR1" height="30" width="40" /></a>
+
+<a href="https://www.twitch.tv/miraxxr1" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1165851612728791111/1235595655653757019/twitch.png?ex=6634f1a0&is=6633a020&hm=bfc3f1f9434a0bb71284d8ac1272feb654d2365c497cabbd8be53464af26f483&=&format=webp&quality=lossless" alt="MiraxxR1" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/@MiraxxR" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1165851612728791111/1235595655867793468/youtube.png?ex=6634f1a0&is=6633a020&hm=e475450f56907fd430f617b227a1cec96857e4c2574cb5620daea4eae152dfe9&=&format=webp&quality=lossless" alt="@MiraxxR" height="30" width="40" /></a>
 
   [![Discord](https://discord.c99.nl/widget/theme-1/372479913409773569.png)](https://discord.gg/DMmB4BWa42)
 </p>
