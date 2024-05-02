@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/@MiraxxR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@MiraxxR" height="30" width="40" /></a>
 <a href="https://discord.gg/DMmB4BWa42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DMmB4BWa42" height="30" width="40" /></a>
 
-  [![Discord](https://discord.c99.nl/widget/theme-1/372479913409773569.png)]([https://discord.com/channels/@me/652969127756955658](https://discord.gg/DMmB4BWa42))
+  [![Discord](https://discord.c99.nl/widget/theme-1/372479913409773569.png)](https://discord.gg/DMmB4BWa42)
 </p>
 
 ---
