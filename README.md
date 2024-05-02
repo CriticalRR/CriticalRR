@@ -1,6 +1,7 @@
 [![miraxxr1](https://media.discordapp.net/attachments/1165851612728791111/1235316406178807808/wepik--20240501194605IxY8.png?ex=6633ed8e&is=66329c0e&hm=8b7365322941d25c790a4ee883bdb3944729cc51776b327156693c663ac82c3c&=&format=webp&quality=lossless&width=1440&height=526)](https://github.com/MiraxxR1) 
 
 <h1 align="center">Hi 👋, I'm MiraxxR</h1>
+
 <h3 align="center">A passionate frontend developer from France</h3>
 
 ---
@@ -17,7 +18,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/MiraxxR1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@MiraxxR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rahuldkjain" height="30" width="40" /></a>
@@ -28,7 +29,7 @@
 
 ---
 
-<h3 align="left">My workspace:</h3>
+<h3 align="left">My workspace</h3>
 
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=Visual%20Studio&logoColor=purple)
@@ -41,9 +42,12 @@
 
 ---
 
-<h3 align="left">My stats:</h3>
+<h3 align="left">My stats</h3>
 
 ![](https://komarev.com/ghpvc/?username=MiraxxR1&color=red&style=for-the-badge)
 
 [![](https://github-readme-stats.vercel.app/api?username=MiraxxR1&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true)]()
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraxxR1&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#)]()
+
+<h3 align="left">Donations</h3>
+If you want to support any of my projects, you can do it here <3
